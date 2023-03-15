@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T18:14:13.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="kb1yALEZaSxdFmMyvg4-" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-15T18:53:25.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="OCriHUeXekHNFEUm6rW1" version="21.0.6" type="github">
   <diagram name="Pagina-1" id="jkMGYgcZss7tJJXc1dJc">
-    <mxGraphModel dx="3457" dy="2139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3135" dy="1966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -484,11 +484,23 @@
             <mxRectangle x="220" y="440" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S80xQoVA_Cn7VEeKXndC-244" value="KStream Consumer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;" vertex="1" parent="S80xQoVA_Cn7VEeKXndC-235">
-          <mxGeometry x="450" y="70" width="60" height="60" as="geometry" />
+        <mxCell id="S80xQoVA_Cn7VEeKXndC-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="S80xQoVA_Cn7VEeKXndC-235" source="S80xQoVA_Cn7VEeKXndC-244" target="S80xQoVA_Cn7VEeKXndC-245">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="S80xQoVA_Cn7VEeKXndC-245" value="Join()" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="S80xQoVA_Cn7VEeKXndC-235">
-          <mxGeometry x="570" y="140" width="50" height="50" as="geometry" />
+        <mxCell id="S80xQoVA_Cn7VEeKXndC-244" value="KStream Consumer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF0000;" vertex="1" parent="S80xQoVA_Cn7VEeKXndC-235">
+          <mxGeometry x="430" y="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S80xQoVA_Cn7VEeKXndC-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="S80xQoVA_Cn7VEeKXndC-235" source="S80xQoVA_Cn7VEeKXndC-245" target="S80xQoVA_Cn7VEeKXndC-250">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S80xQoVA_Cn7VEeKXndC-245" value="KTable" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="S80xQoVA_Cn7VEeKXndC-235">
+          <mxGeometry x="560" y="55" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="S80xQoVA_Cn7VEeKXndC-248" value="Key: RoomId&lt;br&gt;Value: {Player1, Player2,&lt;br&gt;Type}" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="S80xQoVA_Cn7VEeKXndC-235">
+          <mxGeometry x="380" y="120" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S80xQoVA_Cn7VEeKXndC-250" value="Match Table" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#FF66B3;" vertex="1" parent="S80xQoVA_Cn7VEeKXndC-235">
+          <mxGeometry x="560" y="170" width="50" height="55" as="geometry" />
         </mxCell>
         <mxCell id="S80xQoVA_Cn7VEeKXndC-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="S80xQoVA_Cn7VEeKXndC-237" target="S80xQoVA_Cn7VEeKXndC-239">
           <mxGeometry relative="1" as="geometry" />
@@ -500,10 +512,13 @@
           <mxGeometry x="-1330" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="S80xQoVA_Cn7VEeKXndC-239" value="UpdateMatch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="-1170" y="160" width="140" height="30" as="geometry" />
+          <mxGeometry x="-1170" y="170" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S80xQoVA_Cn7VEeKXndC-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="S80xQoVA_Cn7VEeKXndC-240" target="S80xQoVA_Cn7VEeKXndC-244">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S80xQoVA_Cn7VEeKXndC-240" value="NewRoom" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="-1170" y="210" width="140" height="30" as="geometry" />
+          <mxGeometry x="-1170" y="230" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="S80xQoVA_Cn7VEeKXndC-243" value="User" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="-360" y="-10" width="80" height="80" as="geometry" />
