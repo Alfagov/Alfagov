@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T16:12:07.264Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ANWfCLYDOIeImhOlKBy2" version="21.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T16:19:25.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="6UJWvrBouzstnYIriPIY" version="21.2.0" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="-1191" dy="1437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1220" dy="2832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -625,13 +625,46 @@
           <mxGeometry x="2329.25" y="729.5" width="74.75" height="23" as="geometry" />
         </mxCell>
         <mxCell id="lSdv-a1NBsbb_buQkSgG-2441" value="&lt;font color=&quot;#23445d&quot;&gt;192.168.20.237&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#742B21;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="3020" y="694" width="74.75" height="23" as="geometry" />
+          <mxGeometry x="3020" y="703" width="74.75" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="lSdv-a1NBsbb_buQkSgG-2442" value="&lt;font color=&quot;#23445d&quot;&gt;192.168.20.237&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#742B21;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="3030" y="704" width="74.75" height="23" as="geometry" />
+        <mxCell id="lSdv-a1NBsbb_buQkSgG-2442" value="&lt;font color=&quot;#23445d&quot;&gt;192.168.20.234&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#742B21;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3020" y="718" width="74.75" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="lSdv-a1NBsbb_buQkSgG-2443" value="&lt;font color=&quot;#23445d&quot;&gt;192.168.20.237&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#742B21;align=center;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="3040" y="714" width="74.75" height="23" as="geometry" />
+        <mxCell id="lSdv-a1NBsbb_buQkSgG-2443" value="&lt;font color=&quot;#23445d&quot;&gt;192.168.20.233&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#742B21;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3020" y="735.5" width="74.75" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="lSdv-a1NBsbb_buQkSgG-2444" value="&lt;font color=&quot;#23445d&quot;&gt;192.168.20.1xx&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#742B21;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3380" y="867.5" width="74.75" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="lSdv-a1NBsbb_buQkSgG-2445" value="&lt;font color=&quot;#23445d&quot;&gt;*.cluster.svc.internal&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#742B21;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3380" y="852" width="74.75" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="lSdv-a1NBsbb_buQkSgG-2446" value="&lt;font color=&quot;#23445d&quot;&gt;node0.internal&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#742B21;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2769.25" y="989" width="74.75" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="lSdv-a1NBsbb_buQkSgG-2447" value="&lt;font color=&quot;#23445d&quot;&gt;192.168.5.xxx&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#742B21;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2550.25" y="-41" width="74.75" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="lSdv-a1NBsbb_buQkSgG-2448" value="&lt;font color=&quot;#23445d&quot;&gt;192.168.30.0/24&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#742B21;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2551" y="241.5" width="74.75" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="lSdv-a1NBsbb_buQkSgG-2449" value="Cloudflare Tunnel" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/tunnel.svg;" vertex="1" parent="1">
+          <mxGeometry x="2970" y="598.5" width="115" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="lSdv-a1NBsbb_buQkSgG-2450" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;strokeColor=#23445D;endArrow=none;endFill=0;strokeWidth=4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lSdv-a1NBsbb_buQkSgG-2449" target="lSdv-a1NBsbb_buQkSgG-2327">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3210" y="699.26" as="sourcePoint" />
+            <mxPoint x="3153" y="699.26" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lSdv-a1NBsbb_buQkSgG-2451" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=4;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="lSdv-a1NBsbb_buQkSgG-2449">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2910" y="610" as="sourcePoint" />
+            <mxPoint x="2920" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lSdv-a1NBsbb_buQkSgG-2452" value="&lt;font color=&quot;#23445d&quot;&gt;RAM: 28GB&lt;br&gt;DISK: 3TB&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#742B21;align=center;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3110" y="708.5" width="127" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
