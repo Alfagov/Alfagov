@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T20:01:11.133Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="8PqGLEUzEJ1ZubrgjUC8" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T20:08:04.431Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="DBNnoYuEKHWp_pJv4A7k" version="21.2.1" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="369" dy="2752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="-238" dy="2277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lSdv-a1NBsbb_buQkSgG-2353" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=24;align=center;opacity=60;gradientColor=#7ea6e0;" parent="1" vertex="1">
-          <mxGeometry x="3490" y="570" width="1130" height="750.5" as="geometry" />
+          <mxGeometry x="3490" y="560" width="1130" height="760.5" as="geometry" />
         </mxCell>
         <mxCell id="lSdv-a1NBsbb_buQkSgG-2411" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#A50040;fillColor=#d80073;fontSize=24;align=center;opacity=60;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="3530" y="815" width="297" height="209" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="3930" y="583.5" width="640" height="336.5" as="geometry" />
         </mxCell>
         <mxCell id="GC0GD7nrSptXFap7n9_A-2270" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#BAC8D3;fontSize=24;fontColor=#23445D;align=center;opacity=60;" parent="1" vertex="1">
-          <mxGeometry x="2450" y="110.5" width="273.5" height="175" as="geometry" />
+          <mxGeometry x="2360" y="110.5" width="363.5" height="175" as="geometry" />
         </mxCell>
         <mxCell id="GC0GD7nrSptXFap7n9_A-2257" value="" style="shape=mxgraph.cisco.routers.router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="2060" y="287" width="78" height="53" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="2457.75" y="111.5" width="73" height="19" as="geometry" />
         </mxCell>
         <mxCell id="E8cnr3b_6ZYwIvbNZkuO-2257" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#BAC8D3;fontSize=24;fontColor=#23445D;align=center;opacity=60;" parent="1" vertex="1">
-          <mxGeometry x="2450" y="-88" width="273.5" height="175" as="geometry" />
+          <mxGeometry x="2360" y="-88" width="363.5" height="175" as="geometry" />
         </mxCell>
         <mxCell id="E8cnr3b_6ZYwIvbNZkuO-2258" value="&lt;font color=&quot;#23445d&quot;&gt;DNS Server&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#742B21;align=center;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2550.25" y="-78" width="73" height="19" as="geometry" />
@@ -325,7 +325,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lSdv-a1NBsbb_buQkSgG-2344" value="Jenkins" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3308" y="672" width="30" height="33" as="geometry" />
+          <mxGeometry x="3308" y="672" width="52" height="68" as="geometry" />
         </mxCell>
         <mxCell id="lSdv-a1NBsbb_buQkSgG-2345" style="edgeStyle=none;rounded=1;html=1;strokeColor=#23445D;endArrow=none;endFill=0;strokeWidth=4;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="lSdv-a1NBsbb_buQkSgG-2344" target="lSdv-a1NBsbb_buQkSgG-2342" edge="1">
           <mxGeometry relative="1" as="geometry">
