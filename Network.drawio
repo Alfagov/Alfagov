@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T19:35:07.664Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15" etag="T2NhorhIDT50gkkaYgel" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T19:35:41.795Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15" etag="WunSSIsyZ0w3BMuOiAJz" version="22.1.11" type="github">
   <diagram name="Pagina-1" id="ozzTXvZXU9X8fIxmE-A8">
-    <mxGraphModel dx="1285" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1344" dy="1205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,6 +202,9 @@
         </mxCell>
         <mxCell id="nrLmRwJp_RmMb4az66oB-87" value="Security system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-80" y="3" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nrLmRwJp_RmMb4az66oB-88" value="Floor 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="396" y="110" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
